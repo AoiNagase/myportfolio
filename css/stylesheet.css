@@ -1,4 +1,5 @@
 @charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Elsie+Swash+Caps:wght@900&display=swap');
 
 /*共通*/
 body{
@@ -139,6 +140,7 @@ main h2{
 }
 
 .main-top .top-text h2{
+  font-family: 'Elsie Swash Caps', cursive;
   font-size: 4rem;
   padding:15px 0px;
   border:none;
