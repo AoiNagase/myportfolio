@@ -331,7 +331,13 @@ button{
   box-shadow: 0 5px gray;
   display: block;
   margin: 0 auto;
+  cursor: pointer;
 }
+
+button:hover{
+  opacity: 0.7;
+}
+
 
 button:active{
   top: 5px;
